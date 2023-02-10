@@ -9,7 +9,7 @@ print(savings %500)
 print(9**3)
 print (savings // 500)
 
-text = "My name is haseeb mehmood dhatt. I am not going to loose this time from the world. That's it. Thats thet code"
+text = "My name is haseeb mehmood dhatt.That's it. Thats the code"
 text = 'my name is haseeb dhatt'
 
 a=7.5
